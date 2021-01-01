@@ -2,4 +2,4 @@ Un texto es una composición de signos
 codificados en un sistema de escritura que forma una 
 unidad de sentido. 
 
-agregando mas lineas para el 2do texto
+agregando mas lineas para el 2do texto y otra linea 

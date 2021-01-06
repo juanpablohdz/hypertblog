@@ -5,3 +5,4 @@ imprimibles generados por un algoritmo de cifrado que, aunque
 no tienen sentido para cualquier persona, sí puede ser descifrado
 por su destinatario original.
 para darlo permanente
+--
